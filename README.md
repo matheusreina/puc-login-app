@@ -6,8 +6,8 @@ Este projeto foi criado com o [Create React App](https://github.com/facebook/cre
 
 ### Acesso Negado
 
-![Acesso Negado](public\Negado.png "Acesso Negado")
+![Acesso Negado](public/Negado.png "Acesso Negado")
 
 ### Acesso Permitido
 
-![Acesso Permitido](public\Sucesso.png "Acesso Permitido")
+![Acesso Permitido](public/Sucesso.png "Acesso Permitido")
